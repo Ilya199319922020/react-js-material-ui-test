@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Ilya199319922020/react-js-material-ui-test/settings/pages/static/css/main.d9997176.css",
-    "main.js": "/Ilya199319922020/react-js-material-ui-test/settings/pages/static/js/main.2e75d97b.js",
-    "static/js/787.63beb82a.chunk.js": "/Ilya199319922020/react-js-material-ui-test/settings/pages/static/js/787.63beb82a.chunk.js",
-    "static/media/cn.png": "/Ilya199319922020/react-js-material-ui-test/settings/pages/static/media/cn.d19e0fff40f0608f9745.png",
-    "static/media/b.png": "/Ilya199319922020/react-js-material-ui-test/settings/pages/static/media/b.3e577b4b60a446e9ba31.png",
-    "static/media/account.png": "/Ilya199319922020/react-js-material-ui-test/settings/pages/static/media/account.96f20c8840c9852a53f0.png",
-    "index.html": "/Ilya199319922020/react-js-material-ui-test/settings/pages/index.html",
-    "main.d9997176.css.map": "/Ilya199319922020/react-js-material-ui-test/settings/pages/static/css/main.d9997176.css.map",
-    "main.2e75d97b.js.map": "/Ilya199319922020/react-js-material-ui-test/settings/pages/static/js/main.2e75d97b.js.map",
-    "787.63beb82a.chunk.js.map": "/Ilya199319922020/react-js-material-ui-test/settings/pages/static/js/787.63beb82a.chunk.js.map"
+    "main.css": "/react-js-material-ui-test/static/css/main.d9997176.css",
+    "main.js": "/react-js-material-ui-test/static/js/main.c4104c52.js",
+    "static/js/787.63beb82a.chunk.js": "/react-js-material-ui-test/static/js/787.63beb82a.chunk.js",
+    "static/media/cn.png": "/react-js-material-ui-test/static/media/cn.d19e0fff40f0608f9745.png",
+    "static/media/b.png": "/react-js-material-ui-test/static/media/b.3e577b4b60a446e9ba31.png",
+    "static/media/account.png": "/react-js-material-ui-test/static/media/account.96f20c8840c9852a53f0.png",
+    "index.html": "/react-js-material-ui-test/index.html",
+    "main.d9997176.css.map": "/react-js-material-ui-test/static/css/main.d9997176.css.map",
+    "main.c4104c52.js.map": "/react-js-material-ui-test/static/js/main.c4104c52.js.map",
+    "787.63beb82a.chunk.js.map": "/react-js-material-ui-test/static/js/787.63beb82a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d9997176.css",
-    "static/js/main.2e75d97b.js"
+    "static/js/main.c4104c52.js"
   ]
 }
