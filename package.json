@@ -1,7 +1,7 @@
 {
   "name": "react-js-material-ui-test",
   "version": "0.1.0",
-  "homepage":"https://github.com/Ilya199319922020/react-js-material-ui-test/settings/pages",
+  "homepage":"https://ilya199319922020.github.io/react-js-material-ui-test/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.3",
