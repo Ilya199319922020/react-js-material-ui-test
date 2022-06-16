@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/react-js-material-ui-test/static/css/main.d9997176.css",
-    "main.js": "/react-js-material-ui-test/static/js/main.eba42f55.js",
+    "main.js": "/react-js-material-ui-test/static/js/main.9ca62f61.js",
     "static/js/787.63beb82a.chunk.js": "/react-js-material-ui-test/static/js/787.63beb82a.chunk.js",
     "static/media/cn.png": "/react-js-material-ui-test/static/media/cn.d19e0fff40f0608f9745.png",
     "static/media/b.png": "/react-js-material-ui-test/static/media/b.3e577b4b60a446e9ba31.png",
     "static/media/account.png": "/react-js-material-ui-test/static/media/account.96f20c8840c9852a53f0.png",
     "index.html": "/react-js-material-ui-test/index.html",
     "main.d9997176.css.map": "/react-js-material-ui-test/static/css/main.d9997176.css.map",
-    "main.eba42f55.js.map": "/react-js-material-ui-test/static/js/main.eba42f55.js.map",
+    "main.9ca62f61.js.map": "/react-js-material-ui-test/static/js/main.9ca62f61.js.map",
     "787.63beb82a.chunk.js.map": "/react-js-material-ui-test/static/js/787.63beb82a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d9997176.css",
-    "static/js/main.eba42f55.js"
+    "static/js/main.9ca62f61.js"
   ]
 }
