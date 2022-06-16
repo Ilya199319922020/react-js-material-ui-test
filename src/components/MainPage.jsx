@@ -9,9 +9,8 @@ export default function MainPage() {
 			sx={{
 				display: "flex",
 				display: 'grid',
-				gridTemplateColumns: '1fr auto',
+				gridTemplateColumns: 'auto auto',
 				gridTtemplateRows: '100%',
-				height: '100vh',
 				position: 'relative',
 			}}
 		>

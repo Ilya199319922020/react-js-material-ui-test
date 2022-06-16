@@ -12,7 +12,7 @@ function Sidebar() {
 	return (
 		<Box
 			sx={{
-				backgroundColor: "#472469",
+				background: "linear-gradient(#472469, #aa75d9)",
 				display: 'flex',
 				flexDirection: 'column',
 				justifyContent: 'space-around',
