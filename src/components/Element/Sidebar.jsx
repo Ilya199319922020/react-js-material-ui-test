@@ -17,7 +17,12 @@ function Sidebar() {
 				flexDirection: 'column',
 				justifyContent: 'space-around',
 				alignItems: 'start',
-				paddingLeft: '25px'
+				paddingLeft: '25px',
+				width: '180px',
+				position: 'fixed',
+				minHeight: '100%',
+				top: '0',
+				left: '0',
 			}}
 		>
 			<div>

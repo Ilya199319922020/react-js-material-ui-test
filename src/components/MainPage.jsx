@@ -9,14 +9,14 @@ export default function MainPage() {
 			sx={{
 				display: "flex",
 				display: 'grid',
-				gridTemplateColumns: 'minmax(180px, 180px) auto',
-				gridTtemplateRows: ' 1fr',
-				width: '100%',
+				gridTemplateColumns: '1fr auto',
+				gridTtemplateRows: '100%',
 				height: '100vh',
+				position: 'relative',
 			}}
 		>
-			<Sidebar/>
-			<Content/>
+			<Sidebar />
+			<Content />
 		</Box >
 	);
 };
